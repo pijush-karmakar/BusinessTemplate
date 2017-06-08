@@ -1,0 +1,215 @@
+/*----------------------   Medium Layout: 1280px.------------------------ */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    .main-menu li a {
+    padding: 30px 15px;
+}
+
+
+
+}
+
+/* ---------------------  Tablet Layout: 768px. ---------------------------*/
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    #header-top-area, #header-top-area .text-right, .logo, .main-menu {
+    text-align: center;
+}
+.single-slide-item {
+    font-size: 18px;
+    text-align: center;
+}
+
+
+#cta-area h2, #cta-area .text-right {
+    text-align: center;
+}
+.cta-btn {
+    margin-top: 20px;
+}
+.who-we-are {
+    padding: 30px 0;
+}
+.video-padding {
+    padding: 40px 0;
+}
+
+.foot-widg {
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+.footer-top-area {
+    padding-bottom: 35px;
+    padding-top: 20px;
+}
+
+   .main-menu li a {
+    padding: 30px 15px;
+}
+.single-team-item{
+	height:230px;
+}
+.gallery-lightbox {
+    display: inline-block;
+}
+.big-text {
+    margin-bottom: 50px;
+}
+
+.header-slide .owl-buttons{
+    margin:5px;
+    text-align: center;
+}
+.header-slide .owl-buttons div {
+    color: #333;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    
+}
+.header-slide .owl-buttons div.owl-next, .header-slide .owl-buttons div {
+    left: auto;
+    margin: 10px;
+    right: auto;
+}
+
+
+
+    
+}
+
+
+/* -------------------  Mobile Layout: 320px. ----------------------*/
+
+@media only screen and (max-width: 767px) { 
+ 
+   #header-top-area, #header-top-area .text-right, .logo {
+    text-align: center;
+}
+
+.main-menu{
+	display: none;
+}
+
+.logo {
+    text-align: left;
+}
+.service-single-item{
+	margin-bottom: 50px;
+}
+.single-slide-item{
+   height:500px;
+}
+.single-team-item {
+    width: 50%;
+}
+.responsive-menu {
+    display: block;
+    margin-top: -16px;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+}
+#main-menu-area {
+    position: relative;
+    z-index: 99;
+}
+.responsive-menu .slicknav_menu {
+    background: none;
+    padding: 0;
+}
+.responsive-menu .slicknav_btn {
+    margin: 0;
+}
+.slicknav_nav {
+    background: #222 none repeat scroll 0 0;
+    width:200px;
+}
+.slicknav_btn {
+    border-radius: 0;
+}
+.slicknav_nav li a:hover {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #f7be49;
+}
+.slicknav_item.slicknav_row:hover {
+    background:none;
+}
+
+
+.single-slide-item h2{
+	font-size: 36px;
+}
+.single-slide-item {
+    font-size: 20px;
+    text-align: center;
+}
+
+#cta-area h2, #cta-area .text-right {
+    text-align: center;
+}
+.cta-btn {
+    margin-top: 20px;
+}
+.who-we-are {
+    padding: 30px 0;
+}
+.video-padding {
+    padding: 40px 0;
+}
+
+.foot-widg {
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+.footer-top-area {
+    padding-bottom: 35px;
+    padding-top: 20px;
+}
+
+
+.header-slide .owl-buttons{
+	margin:5px;
+	text-align: center;
+}
+.header-slide .owl-buttons div {
+    color: #333;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    
+}
+.header-slide .owl-buttons div.owl-next, .header-slide .owl-buttons div {
+    left: auto;
+    margin: 10px;
+    right: auto;
+}
+
+.factorian-breadcumb h3 {
+    font-size: 16px;
+}
+.single-team-item{
+	height:222px;
+}
+.gallery-lightbox {
+    display: inline-block;
+}
+.big-text {
+    margin-bottom: 50px;
+}
+
+
+
+    
+}
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+.single-team-item{
+	height:215px;
+}
+
+}
