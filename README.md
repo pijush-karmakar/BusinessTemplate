@@ -1,3 +1,3 @@
 # Responsive Business  Template
 
-<p> view webpage: </p>
+<p> view webpage:https://pijush-karmakar.github.io/BusinessTemplate/ResponsiveBusinessTemplate(multipage) </p>
